@@ -1,0 +1,2 @@
+# EqualEyes-DeepLearning
+The project aims to push image captioning technology beyond what currently exists. We will combine recent advances in image recognition and language modeling to generate novel descriptive captions that go beyond just naming objects and actions. 
